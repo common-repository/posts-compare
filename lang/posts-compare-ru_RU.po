@@ -1,0 +1,73 @@
+# RUSSIAN (RU) translation for WordPress.
+# Copyright (C) 2009 WordPress contributors.
+# This file is distributed under the same license as the WordPress package.
+# Serafim Panov <serafimpanov@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: posts-compare\n"
+"Report-Msgid-Bugs-To: serafimpanov@gmail.com\n"
+"POT-Creation-Date: 2009-03-09 17:11-0600\n"
+"PO-Revision-Date: 2009-03-10 13:57+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: posts-compare.php:127
+msgid "Posts Compare"
+msgstr "Поиск ваших постов на других сайтах"
+
+#: posts-compare.php:132
+msgid "Instructions"
+msgstr "Внимание"
+
+#: posts-compare.php:132
+msgid "Don't try to make any changes in the settings below if you are not sure, and the script will work perfectly."
+msgstr "Не делайте никаких изменений в настройках, если вы не уверены, что они означают."
+
+#: posts-compare.php:132
+msgid "After you set up cron job to compare-cron.php file, the plugin will start working checking your post one by one. Later you will see the result in the bottom of this page."
+msgstr "После того, как вы установите cron на compare-cron.php файл, плагин будет проверять ваши посты один за другим. Через какое-то время вы увидите результат внизу страницы."
+
+#: posts-compare.php:133
+msgid "Plugin was checked on"
+msgstr "Плагин проверен на сайте"
+
+#: posts-compare.php:133
+msgid "and helped us to find several plagiarists."
+msgstr "и помог найти несколько плагиаторов."
+
+#: posts-compare.php:136
+msgid "Include searchengine google?"
+msgstr "Включить поисковик google?"
+
+#: posts-compare.php:141
+msgid "Include searchengine yandex.ru?"
+msgstr "Включить поисковик yandex?"
+
+#: posts-compare.php:146
+msgid "Amount of sentences from one post."
+msgstr "Количество предложений из вашего поста для проверки."
+
+#: posts-compare.php:151
+msgid "Amount of words one by one in result for compare."
+msgstr "Какое количество слов подряд должно совпадать."
+
+#: posts-compare.php:156
+msgid "Check posts at once for one time."
+msgstr "Количество постов, проверяемых за один раз."
+
+#: posts-compare.php:161
+msgid "Check posts again every (hours)"
+msgstr "Проверить посты снова через (часов)."
+
+#: posts-compare.php:166
+msgid "Filter sites (one site in one line) which should not be displayed."
+msgstr "Фильтр сайтов (по одному сайту в линии), которые не должны отображаться."
+
+#: posts-compare.php:470
+msgid "No posts matching found."
+msgstr "Пока плагиат не найден."
+
